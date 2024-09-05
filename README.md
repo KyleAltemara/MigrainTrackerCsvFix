@@ -15,11 +15,11 @@ This program processes CSV files containing migraine symptom logs, consolidates 
 2. **Run the program**: Execute the compiled program with the CSV file or directory containing CSV files as arguments.
 
 ## Example
-'''MigrainTrackerCsvFix.exe <path_to_csv_file_or_directory>
+```MigrainTrackerCsvFix.exe <path_to_csv_file_or_directory>```
 
 or
 
-'''MigrainTrackerCsvFix.exe C:\path\to\your\csvfile.csv
+```MigrainTrackerCsvFix.exe C:\path\to\your\csvfile.csv```
 
 Alternatively, you can drag and drop the CSV file or folder onto the executable to run the program.
 
